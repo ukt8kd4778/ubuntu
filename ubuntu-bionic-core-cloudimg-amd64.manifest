@@ -1,5 +1,6 @@
 adduser	3.116ubuntu1
 apt	1.6.13
+apt-utils 1.6.1
 base-files	10.1ubuntu2.10
 base-passwd	3.5.44
 bash	4.4.18-2ubuntu1.2
